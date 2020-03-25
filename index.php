@@ -7,5 +7,7 @@
 </head>
 <body>
     <p>Tutoriel sur git et github</p>
+
+    <p>juste pour le commit de vsc</p>
 </body>
 </html>
